@@ -8,5 +8,4 @@ theme:
   # logo: assets/logo.svg
   # favicon: images/favicon.png
 
-extra_css:
-  - stylesheets/extra.css
+
