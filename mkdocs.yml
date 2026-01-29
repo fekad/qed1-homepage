@@ -1,0 +1,12 @@
+site_name: Homepage
+site_url: https://qed1.itk.ppke.hu/
+repo_url: https://github.com/fekad/qed1-homepage
+repo_name: fekad/qed1-homepage
+
+theme:
+  name: material
+  # logo: assets/logo.svg
+  # favicon: images/favicon.png
+
+extra_css:
+  - stylesheets/extra.css
